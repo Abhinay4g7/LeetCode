@@ -7,6 +7,7 @@ I solved Leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhinay4g7/LeetCode/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhinay4g7/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0792-binary-search](https://github.com/Abhinay4g7/LeetCode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -15,5 +16,6 @@ I solved Leetcode problems
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhinay4g7/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0792-binary-search](https://github.com/Abhinay4g7/LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
