@@ -5,7 +5,7 @@ class Solution:
         r=0
         map =set()
         while l<len(s) and r<len(s):
-            while s[r] in map and r<len(s) and l<len(s):
+            while s[r] in map and r<len(s):
                 map.remove(s[l])
                 l+=1
             map.add(s[r])
