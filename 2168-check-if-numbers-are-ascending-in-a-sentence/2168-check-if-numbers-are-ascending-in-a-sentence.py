@@ -2,17 +2,12 @@ class Solution:
     def areNumbersAscending(self, s: str) -> bool:
         flag=True
         prev=0
-        x=s.split()
-        for i in x:
+        for i in s.split():
             if i.isdigit():
-                if int(i)>prev:
-                    prev=int(i)
-                    continue
-                else:
+                if int(i)<=prev:
                     flag=False
                     break
-            else:
-                continue
+                prev=int(i)
         return flag
                     
 
