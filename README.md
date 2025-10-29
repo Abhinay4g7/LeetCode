@@ -37,6 +37,7 @@ I solved Leetcode problems
 |  |
 | ------- |
 | [1970-sorting-the-sentence](https://github.com/Abhinay4g7/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Abhinay4g7/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 ## Sorting
 |  |
 | ------- |
