@@ -33,4 +33,12 @@ I solved Leetcode problems
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Abhinay4g7/LeetCode/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [1970-sorting-the-sentence](https://github.com/Abhinay4g7/LeetCode/tree/master/1970-sorting-the-sentence) |
+## Sorting
+|  |
+| ------- |
+| [1970-sorting-the-sentence](https://github.com/Abhinay4g7/LeetCode/tree/master/1970-sorting-the-sentence) |
 <!---LeetCode Topics End-->
