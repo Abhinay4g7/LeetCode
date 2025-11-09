@@ -34,6 +34,7 @@ I solved Leetcode problems
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Abhinay4g7/LeetCode/tree/master/0069-sqrtx) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Abhinay4g7/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 ## String
 |  |
 | ------- |
@@ -48,4 +49,8 @@ I solved Leetcode problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinay4g7/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/Abhinay4g7/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
