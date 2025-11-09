@@ -34,6 +34,7 @@ I solved Leetcode problems
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Abhinay4g7/LeetCode/tree/master/0069-sqrtx) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhinay4g7/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Abhinay4g7/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 ## String
 |  |
@@ -53,4 +54,8 @@ I solved Leetcode problems
 |  |
 | ------- |
 | [2288-count-operations-to-obtain-zero](https://github.com/Abhinay4g7/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhinay4g7/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
