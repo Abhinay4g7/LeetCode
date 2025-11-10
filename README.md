@@ -11,6 +11,7 @@ I solved Leetcode problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhinay4g7/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhinay4g7/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhinay4g7/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Abhinay4g7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhinay4g7/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Abhinay4g7/LeetCode/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/Abhinay4g7/LeetCode/tree/master/0792-binary-search) |
@@ -45,6 +46,7 @@ I solved Leetcode problems
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Abhinay4g7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1970-sorting-the-sentence](https://github.com/Abhinay4g7/LeetCode/tree/master/1970-sorting-the-sentence) |
 ## Sliding Window
 |  |
@@ -58,4 +60,8 @@ I solved Leetcode problems
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhinay4g7/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Abhinay4g7/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
